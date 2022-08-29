@@ -1,0 +1,3 @@
+[submodule "BootLoader_Host_Device"]
+	path = BootLoader_Host_Device
+	url = https://github.com/nam9a392/BootLoader_Host_Device.git
